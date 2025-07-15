@@ -4,8 +4,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      page by sandip
-      <Button className='bg-red-500'>Logout</Button>
+      <Button>this is logut btn</Button>
     </div>
   )
 }
