@@ -5,6 +5,7 @@ const page = () => {
   return (
     <div>
       <Button>this is logut btn</Button>
+      random
     </div>
   )
 }
